@@ -1,0 +1,101 @@
+# Python bytecode / packaging
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.build/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Test / type / notebook caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.ipynb_checkpoints/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime output
+*.log
+logs/
+*.out
+*.err
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Hugging Face / experiment caches
+.cache/
+.huggingface/
+wandb/
+mlruns/
+datasets/siv_bench_cache/
+
+# Archives and compressed artifacts
+.archive/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+
+# Docker / local runtime clutter
+.docker/
+
+# ----------------------------
+# ICMR_GenData: generated artifacts
+# ----------------------------
+ICMR_GenData/models/outputs/
+ICMR_GenData/models/*.pt
+ICMR_GenData/models/*.bin
+ICMR_GenData/models/*.safetensors
+ICMR_GenData/models/data/
+ICMR_GenData/generation/outputs/
+ICMR_GenData/data/external/
+ICMR_GenData/data/final/
+ICMR_GenData/experiments/*.log
+ICMR_GenData/experiments/figures/
+ICMR_GenData/experiments/ablation/
+ICMR_GenData/experiments/per_sample/
+ICMR_GenData/experiments/table1/
+ICMR_GenData/experiments/table2/
+ICMR_GenData/experiments/table3/
+ICMR_GenData/experiments/table4/
+ICMR_GenData/experiments/table5/
+ICMR_GenData/experiments/table6_swmh/
+ICMR_GenData/experiments/paper_targets/figures/
+
+# ----------------------------
+# mtKG-LLM: generated artifacts
+# ----------------------------
+mtKG-LLM/**/*.pkl
+mtKG-LLM/**/*.pickle
+mtKG-LLM/**/*.pt
+mtKG-LLM/**/*.bin
+mtKG-LLM/**/*.safetensors
+mtKG-LLM/**/pre_processed*
+mtKG-LLM/**/predicted*
+mtKG-LLM/**/backup*
+
+# Keep source files and configs tracked
+!ICMR_GenData/data/.gitkeep
+!ICMR_GenData/models/data/.gitkeep
+

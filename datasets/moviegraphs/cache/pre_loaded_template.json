@@ -1,0 +1,36 @@
+[
+  {
+    "video_name": "movie_001_scene_0001",
+    "background_summaries": [
+      "two people are talking in a kitchen"
+    ],
+    "interaction_summaries": [
+      "they discuss family dinner plans"
+    ],
+    "individual_summaries": [
+      [
+        "adult woman",
+        "adult man"
+      ]
+    ],
+    "queries": [
+      [
+        "person_1",
+        "person_2"
+      ]
+    ],
+    "labels": [
+      "Family"
+    ],
+    "end": true,
+    "background_images": [
+      ""
+    ],
+    "face_images": [
+      [
+        "",
+        ""
+      ]
+    ]
+  }
+]

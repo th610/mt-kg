@@ -1,0 +1,402 @@
+[
+  {
+    "question_id": "0001-1",
+    "predicted": "D",
+    "ground_truth": "B",
+    "category": "Environment Perception",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0001-2",
+    "predicted": "C",
+    "ground_truth": "L",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0002-1",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Counterfactual Prediction",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0002-2",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Counterfactual Prediction",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0002-3",
+    "predicted": "A",
+    "ground_truth": "C",
+    "category": "Counterfactual Prediction",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0002-4",
+    "predicted": "A",
+    "ground_truth": "B",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0002-5",
+    "predicted": "E",
+    "ground_truth": "C",
+    "category": "Action Recognition",
+    "correct": false,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0002-6",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0002-7",
+    "predicted": "A",
+    "ground_truth": "J",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0003-1",
+    "predicted": "A",
+    "ground_truth": "E",
+    "category": "Human Attribute Identification",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0003-2",
+    "predicted": "C",
+    "ground_truth": "D",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0003-3",
+    "predicted": "C",
+    "ground_truth": "D",
+    "category": "Action Recognition",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0003-4",
+    "predicted": "D",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0003-5",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Emotion Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0003-6",
+    "predicted": "A",
+    "ground_truth": "D",
+    "category": "Environment Perception",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0004-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Action Recognition",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0004-2",
+    "predicted": "D",
+    "ground_truth": "C",
+    "category": "Counterfactual Prediction",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0004-3",
+    "predicted": "F",
+    "ground_truth": "F",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "F"
+  },
+  {
+    "question_id": "0005-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Factual Prediction",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0005-2",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Counterfactual Prediction",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0005-3",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0006-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Factual Prediction",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0006-2",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Counterfactual Prediction",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0006-3",
+    "predicted": "L",
+    "ground_truth": "M",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "L"
+  },
+  {
+    "question_id": "0007-1",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0007-2",
+    "predicted": "C",
+    "ground_truth": "D",
+    "category": "Factual Prediction",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0008-1",
+    "predicted": "A",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0008-2",
+    "predicted": "C",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0008-3",
+    "predicted": "D",
+    "ground_truth": "E",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0008-4",
+    "predicted": "D",
+    "ground_truth": "B",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0009-1",
+    "predicted": "C",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0009-2",
+    "predicted": "B",
+    "ground_truth": "C",
+    "category": "Factual Prediction",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0009-3",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Factual Prediction",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0009-4",
+    "predicted": "A",
+    "ground_truth": "D",
+    "category": "Facial Expression Recognition",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0009-5",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Counterfactual Prediction",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0009-6",
+    "predicted": "D",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0010-1",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Factual Prediction",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0010-2",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Environment Perception",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0011-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0011-2",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0012-1",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0012-2",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Action Recognition",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0012-3",
+    "predicted": "E",
+    "ground_truth": "A",
+    "category": "Facial Expression Recognition",
+    "correct": false,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0012-4",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Factual Prediction",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0013-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0013-2",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0014-1",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Factual Prediction",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0014-2",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Environment Perception",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0014-3",
+    "predicted": "D",
+    "ground_truth": "C",
+    "category": "Facial Expression Recognition",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0015-1",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "E"
+  }
+]
