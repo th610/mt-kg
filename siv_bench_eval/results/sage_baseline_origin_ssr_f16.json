@@ -1,0 +1,1602 @@
+[
+  {
+    "question_id": "0001-2",
+    "predicted": "E",
+    "ground_truth": "L",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0002-4",
+    "predicted": "A",
+    "ground_truth": "B",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0002-6",
+    "predicted": "B",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0002-7",
+    "predicted": "A",
+    "ground_truth": "J",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0003-2",
+    "predicted": "C",
+    "ground_truth": "D",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0003-4",
+    "predicted": "A",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0003-5",
+    "predicted": "C",
+    "ground_truth": "E",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0004-3",
+    "predicted": "F",
+    "ground_truth": "F",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "F"
+  },
+  {
+    "question_id": "0005-3",
+    "predicted": "L",
+    "ground_truth": "A",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "L"
+  },
+  {
+    "question_id": "0006-3",
+    "predicted": "L",
+    "ground_truth": "M",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "L"
+  },
+  {
+    "question_id": "0007-1",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0008-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0008-2",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0008-3",
+    "predicted": "D",
+    "ground_truth": "E",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0008-4",
+    "predicted": "D",
+    "ground_truth": "B",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0009-1",
+    "predicted": "C",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0009-6",
+    "predicted": "D",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0011-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0011-2",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0012-1",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0013-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0013-2",
+    "predicted": "H",
+    "ground_truth": "C",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "H"
+  },
+  {
+    "question_id": "0015-1",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0015-2",
+    "predicted": "N",
+    "ground_truth": "N",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "N"
+  },
+  {
+    "question_id": "0016-1",
+    "predicted": "E",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0016-3",
+    "predicted": "C",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0017-1",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0017-3",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0018-1",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0018-2",
+    "predicted": "B",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0018-3",
+    "predicted": "N",
+    "ground_truth": "N",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "N"
+  },
+  {
+    "question_id": "0019-1",
+    "predicted": "D",
+    "ground_truth": "C",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0019-2",
+    "predicted": "D",
+    "ground_truth": "B",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0019-3",
+    "predicted": "C",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0020-1",
+    "predicted": "C",
+    "ground_truth": "E",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0020-2",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0021-2",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0023-3",
+    "predicted": "A",
+    "ground_truth": "B",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0024-1",
+    "predicted": "I",
+    "ground_truth": "D",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "I don't have enough context to determine the correct answer"
+  },
+  {
+    "question_id": "0024-3",
+    "predicted": "I",
+    "ground_truth": "D",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "I don't have enough information to determine the facial expression"
+  },
+  {
+    "question_id": "0024-4",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0026-3",
+    "predicted": "E",
+    "ground_truth": "C",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0026-5",
+    "predicted": "D",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0026-6",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0027-2",
+    "predicted": "C",
+    "ground_truth": "A",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0027-4",
+    "predicted": "E",
+    "ground_truth": "A",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0028-4",
+    "predicted": "B",
+    "ground_truth": "D",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0028-5",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0028-6",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0028-7",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0029-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0029-2",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0031-1",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0032-1",
+    "predicted": "A",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0032-2",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0032-3",
+    "predicted": "F",
+    "ground_truth": "F",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "F"
+  },
+  {
+    "question_id": "0033-3",
+    "predicted": "F",
+    "ground_truth": "B",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "F"
+  },
+  {
+    "question_id": "0036-1",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0037-1",
+    "predicted": "C",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0037-2",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Emotion Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0037-4",
+    "predicted": "B",
+    "ground_truth": "E",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0038-1",
+    "predicted": "K",
+    "ground_truth": "K",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "K"
+  },
+  {
+    "question_id": "0039-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0039-3",
+    "predicted": "B",
+    "ground_truth": "D",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0039-6",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0039-7",
+    "predicted": "I",
+    "ground_truth": "D",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "I"
+  },
+  {
+    "question_id": "0040-1",
+    "predicted": "L",
+    "ground_truth": "L",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "L"
+  },
+  {
+    "question_id": "0041-1",
+    "predicted": "C",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0041-3",
+    "predicted": "C",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0042-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0042-4",
+    "predicted": "A",
+    "ground_truth": "E",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0043-1",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0043-4",
+    "predicted": "E",
+    "ground_truth": "D",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0043-7",
+    "predicted": "F",
+    "ground_truth": "F",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "F"
+  },
+  {
+    "question_id": "0044-1",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0044-2",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0048-2",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0049-2",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Emotion Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0049-3",
+    "predicted": "E",
+    "ground_truth": "C",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0050-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0050-2",
+    "predicted": "M",
+    "ground_truth": "F",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "M"
+  },
+  {
+    "question_id": "0052-1",
+    "predicted": "B",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0054-1",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0054-3",
+    "predicted": "I",
+    "ground_truth": "B",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "I"
+  },
+  {
+    "question_id": "0056-1",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0057-2",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0058-5",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0059-2",
+    "predicted": "K",
+    "ground_truth": "K",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "K"
+  },
+  {
+    "question_id": "0060-1",
+    "predicted": "B",
+    "ground_truth": "E",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0060-5",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0061-1",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0061-2",
+    "predicted": "N",
+    "ground_truth": "L",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "N"
+  },
+  {
+    "question_id": "0063-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0064-2",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0064-4",
+    "predicted": "C",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0064-5",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Emotion Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0064-6",
+    "predicted": "H",
+    "ground_truth": "H",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "H"
+  },
+  {
+    "question_id": "0066-1",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0067-4",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0068-1",
+    "predicted": "E",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0068-2",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0068-4",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Emotion Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0068-5",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0068-6",
+    "predicted": "D",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0069-1",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0069-6",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0070-1",
+    "predicted": "B",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0071-1",
+    "predicted": "L",
+    "ground_truth": "L",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "L"
+  },
+  {
+    "question_id": "0074-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0074-2",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0075-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0075-3",
+    "predicted": "B",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0076-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0079-1",
+    "predicted": "C",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0080-4",
+    "predicted": "D",
+    "ground_truth": "G",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0081-1",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0081-2",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Emotion Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0081-4",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0084-1",
+    "predicted": "C",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0084-2",
+    "predicted": "F",
+    "ground_truth": "M",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "F"
+  },
+  {
+    "question_id": "0085-1",
+    "predicted": "B",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0085-2",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0085-3",
+    "predicted": "C",
+    "ground_truth": "A",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0085-5",
+    "predicted": "C",
+    "ground_truth": "E",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0086-2",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0087-1",
+    "predicted": "C",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0089-1",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0089-2",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0091-3",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0091-4",
+    "predicted": "C",
+    "ground_truth": "D",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0091-5",
+    "predicted": "G",
+    "ground_truth": "G",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "G"
+  },
+  {
+    "question_id": "0093-1",
+    "predicted": "E",
+    "ground_truth": "C",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0093-2",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0094-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0094-3",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0094-5",
+    "predicted": "C",
+    "ground_truth": "B",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0095-2",
+    "predicted": "H",
+    "ground_truth": "L",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "H"
+  },
+  {
+    "question_id": "0096-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0096-2",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0097-1",
+    "predicted": "C",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0097-7",
+    "predicted": "J",
+    "ground_truth": "G",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "J"
+  },
+  {
+    "question_id": "0098-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0098-2",
+    "predicted": "B",
+    "ground_truth": "E",
+    "category": "Emotion Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0098-3",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0099-1",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Emotion Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0100-1",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0101-1",
+    "predicted": "C",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0102-3",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0102-4",
+    "predicted": "G",
+    "ground_truth": "G",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "G"
+  },
+  {
+    "question_id": "0103-3",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0104-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0104-3",
+    "predicted": "H",
+    "ground_truth": "H",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "H"
+  },
+  {
+    "question_id": "0105-2",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0105-3",
+    "predicted": "M",
+    "ground_truth": "M",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "M"
+  },
+  {
+    "question_id": "0106-2",
+    "predicted": "B",
+    "ground_truth": "M",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0107-1",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0108-1",
+    "predicted": "A",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0108-3",
+    "predicted": "A",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0108-4",
+    "predicted": "B",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0109-1",
+    "predicted": "H",
+    "ground_truth": "A",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "H"
+  },
+  {
+    "question_id": "0110-1",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0110-4",
+    "predicted": "N",
+    "ground_truth": "N",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "N"
+  },
+  {
+    "question_id": "0112-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0112-3",
+    "predicted": "B",
+    "ground_truth": "D",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0112-4",
+    "predicted": "C",
+    "ground_truth": "B",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0112-5",
+    "predicted": "C",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0114-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0116-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0117-3",
+    "predicted": "C",
+    "ground_truth": "N",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0118-1",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0118-2",
+    "predicted": "B",
+    "ground_truth": "D",
+    "category": "Relation Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0119-3",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0119-4",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0119-6",
+    "predicted": "N",
+    "ground_truth": "N",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "N"
+  },
+  {
+    "question_id": "0120-1",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0120-2",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0121-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Emotion Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0121-2",
+    "predicted": "G",
+    "ground_truth": "G",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "G"
+  },
+  {
+    "question_id": "0122-1",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0123-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0123-2",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0123-3",
+    "predicted": "B",
+    "ground_truth": "E",
+    "category": "Attitude Inference",
+    "correct": false,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0123-4",
+    "predicted": "A",
+    "ground_truth": "A",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0123-5",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0123-7",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0124-1",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Emotion Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0124-5",
+    "predicted": "A",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "A"
+  },
+  {
+    "question_id": "0124-6",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0125-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0126-1",
+    "predicted": "E",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "E"
+  },
+  {
+    "question_id": "0126-2",
+    "predicted": "C",
+    "ground_truth": "C",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0127-5",
+    "predicted": "L",
+    "ground_truth": "L",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "L"
+  },
+  {
+    "question_id": "0128-1",
+    "predicted": "C",
+    "ground_truth": "E",
+    "category": "Intent Inference",
+    "correct": false,
+    "raw_output": "C"
+  },
+  {
+    "question_id": "0128-5",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Emotion Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0128-6",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0129-1",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0130-1",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Intent Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0130-2",
+    "predicted": "D",
+    "ground_truth": "D",
+    "category": "Emotion Inference",
+    "correct": true,
+    "raw_output": "D"
+  },
+  {
+    "question_id": "0130-4",
+    "predicted": "B",
+    "ground_truth": "B",
+    "category": "Attitude Inference",
+    "correct": true,
+    "raw_output": "B"
+  },
+  {
+    "question_id": "0131-1",
+    "predicted": "I",
+    "ground_truth": "I",
+    "category": "Relation Inference",
+    "correct": true,
+    "raw_output": "I"
+  }
+]

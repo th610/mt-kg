@@ -38,8 +38,6 @@ from configs.default import (
     OPENAI_API_KEY,
     OPENAI_BASE_URL,
 )
-from pipeline.plain_baseline import run_plain_baseline
-from pipeline.mtkg_baseline import run_mtkg_baseline
 
 
 CATEGORY_PRESETS = {
@@ -83,9 +81,9 @@ def parse_args():
     )
     parser.add_argument(
         "--mode",
-        choices=["plain", "mtkg"],
+        choices=["plain", "mtkg", "sage"],
         default="plain",
-        help="실행 모드: plain (plain baseline) | mtkg (mtKG baseline)",
+        help="실행 모드: plain (plain baseline) | mtkg (mtKG baseline) | sage (SAGE)",
     )
     parser.add_argument(
         "--category_preset",
@@ -141,6 +139,7 @@ def main():
     )
 
     if args.mode == "plain":
+        from pipeline.plain_baseline import run_plain_baseline
         run_plain_baseline(
             subtitle_condition=args.condition,
             num_frames=args.num_frames,
@@ -152,8 +151,22 @@ def main():
             api_key=OPENAI_API_KEY or None,
             base_url=OPENAI_BASE_URL or None,
         )
-    else:  # mtkg
+    elif args.mode == "mtkg":
+        from pipeline.mtkg_baseline import run_mtkg_baseline
         run_mtkg_baseline(
+            subtitle_condition=args.condition,
+            num_frames=args.num_frames,
+            max_samples=max_samples,
+            categories=categories,
+            cache_dir=HF_CACHE_DIR,
+            local_video_dir=LOCAL_VIDEO_DIR,
+            result_save_path=result_path,
+            api_key=OPENAI_API_KEY or None,
+            base_url=OPENAI_BASE_URL or None,
+        )
+    else:  # sage
+        from pipeline.sage import run_sage_pipeline
+        run_sage_pipeline(
             subtitle_condition=args.condition,
             num_frames=args.num_frames,
             max_samples=max_samples,

@@ -173,11 +173,15 @@ def iter_samples(
             continue
         if max_samples is not None and count >= max_samples:
             break
-        video_path = download_video(
-            sample.video_path,
-            subtitle_condition=subtitle_condition,
-            cache_dir=cache_dir,
-            local_video_dir=local_video_dir,
-        )
+        try:
+            video_path = download_video(
+                sample.video_path,
+                subtitle_condition=subtitle_condition,
+                cache_dir=cache_dir,
+                local_video_dir=local_video_dir,
+            )
+        except Exception as e:
+            logger.warning(f"영상 다운로드 실패, 건너뜀: {sample.video_path} ({e})")
+            continue
         yield sample, video_path
         count += 1
